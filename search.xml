@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[起始]]></title>
+    <url>%2Fblog%2F2019%2F08%2F09%2FStart%2F</url>
+    <content type="text"><![CDATA[寫於故事開始之頁玩起Hexo也算是個意外(?!)，最近正好在整理一些以前的文章、整理blog，每每這種時候就會開始尋找一些新東西來玩，正好和同事聊到了Hexo，外加工作上最近常需要接觸markdown &amp; git，喚醒了小時候各種愛玩(?!)新東西的心情，也就決定把這個站架起來了，然後給一些定位XD 預定會在這裡發佈的 工作筆記 技術學習筆記 撰寫工具 (主要)VS code Notepad++ StackEdit 常用指令記錄一下常用指令供自己翻看 新增草稿 1hexo new draft FileName 由草稿發佈(draft to post) 1hexo publish FileName 清除快取、產生靜態網頁並部屬網站 123hexo cleanhexo generatehexo deploy 其他相關連結 Hexo官網 佈景主題相關 Theme for Hexo Theme-next官方網頁]]></content>
+      <categories>
+        <category>Notes</category>
+      </categories>
+      <tags>
+        <tag>Notes</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2Fblog%2F2019%2F08%2F08%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
